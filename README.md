@@ -2,4 +2,4 @@
 
 **Radio Vision — Elegant, secure, production-grade WiFi CSI sensing**
 
-See full project at: https://github.com/SeaHorseCapn/eyefi
+Full project with complete documentation, hardware support, and deployment guides at: https://github.com/SeaHorseCapn/eyefi
