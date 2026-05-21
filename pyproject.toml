@@ -1,0 +1,4 @@
+[project]
+name = "eyefi"
+version = "3.0.0"
+description = "Radio Vision — Elegant, secure, production-grade WiFi CSI sensing"
